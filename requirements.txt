@@ -19,3 +19,4 @@ six==1.10.0
 tornado==4.5.1
 wsgiref==0.1.2
 statsmodels==0.8.0
+jupyter==1.0.0
